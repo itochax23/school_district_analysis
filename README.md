@@ -16,11 +16,9 @@ The original analysis of the 15 high schools in the district showed that:
 * In fact, the most successful spending range of a school in this district looking att the percent overall passing was the group that spend less than $584 per student, averaging 90% overall passing.
 * The size of the school was also measured for scores and passing percentages, and there was a clear correlation betweeen small schools (under 1000 students) and hteeir success in scores and perecent passing math and reading compared to the large schools (2000-5000).
 
+### Spending ranges
 ![Spending](Resources/Spending.png)
 
-![Original](Resources/Original.png)
-
-![Revised](Resources/Revised.png)
 
 ### Changes after the revision
 * The district summary changed in that the average scores and percentt passing dropped slightly. Average reading score was not affected by thet revision/removal of thee 9th grade Thomas High School student data.
@@ -32,6 +30,10 @@ The original analysis of the 15 high schools in the district showed that:
 * Scores by school spending: There was no significant change to the information overall with the removal of the 9th grade Thomas High School data.
 * Scores by school size: Scores by school size did not reveal any significant changes when the data from Thomas High School was removed.
 * Scores by school type: Charter schools, including Thomas High School, changed only very slightly after the revision - rounding out the data during formatting shows no significant change, as the final percentages for passing overall, passing math, passing reading, and even the scores for average math and reading are unchanged.
+
+![Original](Resources/OriginalDistrictSummary.png)
+
+![Revised](Resources/RevisedDistrictSummary.png)
 
 ## Summary
 The updated school district analysis where reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs resulted in a higher average math score, average reading score, passing math percentage, passing reading percentage, and overall passing percentage for Thomas High School. While some of the data was replaced, others such as the student IDs, school type, school size and spending range per student were not affected, and did not change. Since the change was made to one grade in one school, the impact to the district was not dramatic, but it is important that the school board have accurate data with which to make their decisions - both about handling misinformation reported on stardardized testing, and in improving schools for our children.
