@@ -1,20 +1,26 @@
 # School District Analysis  
 
 ## Overview of the school district analysis
-We were tasked with analyzing if standardized testing were effective reviewing variables lke funding, school size, and other trends in school performance. This will inform the school board so tthey can make informed decisions about the schools and district overall. 
+We were tasked with analyzing if standardized testing were effective reviewing variables lke funding, school size, and other trends in school performance. This will inform the school board so they can make informed decisions about the schools and district overall. 
 
 Data has been treated with the utmost confidentiality to protect the identity of the students. Except where we put it all on the internet, I suppose.
 
 There were issues with the data from Thomas High School's 9th grade class; that data specific to reading and math scores was replaced with NaN, and the analysis for the school, and the district, were revised to account for that change.
 
 ## Results
-The original analysis of the 15 high schools in the district showed that
+The original analysis of the 15 high schools in the district showed that:
 * The top five schools based on overall passing percent were Cabrera, Thomas, Griffin, Wilson and Pena respectively. Cabrera topped the overall passing percent with a 91.3%.
 * The bottom five schools also based on overall passing percent were Rodriguez, Figueroa, Huang, Hernandez and Johnson, with Johnson being last at just 53.4%.
 * Cabrera, a charter school with 1858 students total, has a per student budget of $582 - which puts them in the lowest bracket for spending per student.
 * Johnson, a district school, has 4761 students and spends, peer student $650 - putting them in the group with the highest spending per student.
 * In fact, the most successful spending range of a school in this district looking att the percent overall passing was the group that spend less than $584 per student, averaging 90% overall passing.
 * The size of the school was also measured for scores and passing percentages, and there was a clear correlation betweeen small schools (under 1000 students) and hteeir success in scores and perecent passing math and reading compared to the large schools (2000-5000).
+
+![Spending](Resources/Spending.png)
+
+![Original](Resources/Original.png)
+
+![Revised](Resources/Revised.png)
 
 ### Changes after the revision
 * The district summary changed in that the average scores and percentt passing dropped slightly. Average reading score was not affected by thet revision/removal of thee 9th grade Thomas High School student data.
